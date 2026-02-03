@@ -1,1 +1,1 @@
-# plant_disease_detection
+Plant Disease Detection using CNN is an AI system that identifies crop diseases from leaf images. The model learns visual patterns like spots and discoloration to classify healthy and infected plants, enabling fast, accurate diagnosis. It helps farmers take early action, reduce crop loss, and improve productivity. 
